@@ -1,4 +1,4 @@
-# holbertonschool-sorting_algorithms
+# holbertonschool sorting algorithms
 
 A project focused on understanding and implementing sorting algorithms in C, with a strong emphasis on algorithmic thinking, efficiency, and practical coding skills.
 
